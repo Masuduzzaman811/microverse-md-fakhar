@@ -1,0 +1,27 @@
+.container {
+    
+    /* Center vertically and horizontally */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .child {
+    
+    max-width: 100%;
+    
+  }
+#title {
+    color:rgb(204, 55, 29);
+    text-align: center;
+}
+
+#image {
+    width: 100%;
+    position: relative;
+
+
+    
+   
+  /* height: auto; */
+}
